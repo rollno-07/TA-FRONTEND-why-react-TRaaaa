@@ -1,4 +1,4 @@
-#### Movie Watchlist App
+#---------------### Movie Watchlist App
 
 So before going into React let's try to understand the problem it solves. To do that we will be making a small application using JavaScript named "Movie Watch List App". To create this application use HTML, CSS and JavaScript.
 
